@@ -21,4 +21,5 @@ and product-level insights.
 - Performed data cleaning to ensure data quality and accuracy
 
 ## Dashboard Preview
-(Add a screenshot of your dashboard here)
+<img width="1280" height="721" alt="dashboard" src="https://github.com/user-attachments/assets/b85b4271-0ed2-4e9b-b895-3c849297466c" />
+
